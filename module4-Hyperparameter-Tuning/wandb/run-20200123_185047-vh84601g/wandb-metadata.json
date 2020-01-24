@@ -1,0 +1,26 @@
+{
+    "root": "C:/Users/John/Coding/Lambda/DS-Unit-4-Sprint-2-Neural-Networks",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/johnwesleyharding/DS-Unit-4-Sprint-2-Neural-Networks.git",
+        "commit": "46b4dc6b5cd6b987f3655b48e2d2d631d0a2c6b9"
+    },
+    "email": "johnwesleyharding@users.noreply.github.com",
+    "startedAt": "2020-01-23T18:50:47.746929",
+    "host": "DESKTOP-U7TPUII",
+    "username": "John",
+    "executable": "C:\\Users\\John\\Anaconda3\\envs\\U4-S2-NN\\python.exe",
+    "os": "Windows-10-10.0.18362-SP0",
+    "python": "3.7.0",
+    "cpu_count": 8,
+    "args": [
+        "-f",
+        "C:\\Users\\John\\AppData\\Roaming\\jupyter\\runtime\\kernel-0316b85d-b628-456d-a1e2-917aea24e055.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "icy-wildflower-36",
+    "project": "ds9-boston",
+    "heartbeatAt": "2020-01-23T18:50:50.290644"
+}
